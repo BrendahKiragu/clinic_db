@@ -195,3 +195,4 @@ INSERT INTO appointments(patient_id, doctor_id, service_id, appointment_datetime
 (18,13,2,'2025-10-01 09:00:00',30,'scheduled','Child visit'),
 (19,14,6,'2025-10-01 10:00:00',30,'scheduled','Skin check'),
 (20,12,1,'2025-10-01 11:00:00',30,'scheduled','General consultation');
+
